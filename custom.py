@@ -17,7 +17,7 @@ def main():
 
 
 	os.system("clear")
-	print("GitHub × github.com/secwayz\n")
+	print("GitHub × github.com/securityhigh\n")
 
 	text = input("Enter a new line > ")
 	print("")
